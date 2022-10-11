@@ -1,0 +1,51 @@
+#Background-color{
+    background-color: #74992e;
+}
+
+#Background-image {
+    background-image: url(/asests/background.jpeg);
+}
+
+#color{
+    color: rgb(214, 122, 127);
+}
+
+#text-align{
+    text-align: center;
+}
+
+#width{
+    width: auto;
+}
+
+#heigh{
+    height: 75%;
+}
+
+#border{
+    border: 1rem solid purple;
+}
+
+#border-collapse{
+    border-collapse: separate;
+}
+
+#display{
+    display: flex;
+}
+
+#justify-content{
+    justify-content: center;
+}
+
+p{
+    color: aliceblue;
+}
+
+h2{
+    color: coral;
+}
+
+h1{
+    color: blue;
+}
